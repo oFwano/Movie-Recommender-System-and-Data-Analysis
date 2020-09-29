@@ -1,5 +1,5 @@
 # **ANALYSIS AND COMPUTATION ON MOVIES**
-Creates a recommender system for movies using data and GroupLens.
+Created a recommender system for movies using the Movielens dataset.
 
 # Required Libraries:
 * scikit-learn
