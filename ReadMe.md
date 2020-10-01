@@ -50,4 +50,4 @@ on line 32 "movie_title" to the desired movie.
 If the output images are not being saved to plot the user must first create the
 directory plot.
 
-[imagepreview](/imgpreview.png)
+![imagepreview](/imgpreview.png)
